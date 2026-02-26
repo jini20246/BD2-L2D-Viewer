@@ -637,7 +637,7 @@ export default {
     "charName": "Olivier",
     "costumeName": "Retired Legend",
     "spine": "char003604",
-    "cutscene": "",
+    "cutscene": "cutscene_char003604",
     "dating": ""
   },
   "003701": {

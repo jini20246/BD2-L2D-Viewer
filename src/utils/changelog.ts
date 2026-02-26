@@ -1,5 +1,12 @@
 export default [
   {
+    "date": "26/02/2026",
+    "changes": [
+      "Added Olivier: Retired Legend character icon.",
+      "Added Olivier: Retired Legend ultimate animation."
+    ]
+  },
+  {
     "date": "13/02/2026",
     "changes": [
       "Updated Ventana: Onsen Practitioner fated guest model with the newest one that removes the black bars.",
