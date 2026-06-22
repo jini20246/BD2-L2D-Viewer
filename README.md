@@ -6,7 +6,7 @@ If you want to request a feature or report a bug you can open an issue.
 ## Donations
 
 If you like the work and effort I put into the website and want to help me consider [supporting](https://ko-fi.com/jelosus1).
-
+  
 ## License
 
 MIT License
